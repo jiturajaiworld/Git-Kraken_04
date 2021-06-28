@@ -1,0 +1,8 @@
+#commamds for git
+#git init
+#git add .
+#git status
+#git commit -m "commit message."
+#git checkout "paste number"
+#git checkout master
+#ls -a
