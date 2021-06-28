@@ -6,3 +6,10 @@
 #git checkout "paste number"
 #git checkout master
 #ls -a
+
+
+#git remote commands
+#git remote add origin(url)
+#git remote -v
+#git push origin master
+#git pull origin master
